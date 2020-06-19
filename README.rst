@@ -175,5 +175,5 @@ Blabel was originally written to print labels for biological samples and is part
 synthetic biology software suite for DNA design, manufacturing and validation.
 
 
-
+https://blog.jonasneubert.com/2019/01/23/barcode-generation-python/
 
