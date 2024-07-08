@@ -15,4 +15,3 @@ This example requires [pydenticon](https://github.com/azaghal/pydenticon) instal
 ```
 pip install pydenticon
 ```
-
